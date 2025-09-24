@@ -1,5 +1,6 @@
 B001,Introduction to Java,James Gosling,false,,,
 a001,harry potter,jk rowling,false,B001,2025-10-03,
 B002,Data Structures,Mark Allen Weiss,false,,,
-A001,harrypotter,jk rowling,true,B001,2025-09-30,
+A001,harrypotter,jk rowling,false,,,
 B003,Operating Systems,Abraham Silberschatz,false,,,
+b001,the king,vijay,true,h001,2025-10-01,
